@@ -1,5 +1,4 @@
 <DOCTYPE html>
-<html>
 <head>
 	     <title>Ice Craft</title>
 	 </head>
