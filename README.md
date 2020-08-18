@@ -1,6 +1,6 @@
 <DOCTYPE html>
 <head>
-	     <title>Чёткий сайт</title>
+	     <title>Ice Craft</title>
 	 </head>
 <body>
 	<body background= "c.jpg">
